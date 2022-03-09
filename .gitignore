@@ -1,0 +1,13 @@
+venv/
+
+archivos/names.txt
+archivos/numbers.txt
+
+archivos.py 
+assert_statements.py
+debugging.py
+Dictionary_comprehensions.py
+filter_data.py
+filter_map_reduce.py
+lists_and_dicts.py
+lists_comprehensions.py
